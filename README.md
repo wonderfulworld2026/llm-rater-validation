@@ -165,7 +165,7 @@ Potential directions for extending this work include:
 ---
 
 # Repository structure
-
+```
 llm-rater-validation/
 ├── README.md               # this file (also the writeup)
 ├── requirements.txt
@@ -181,6 +181,8 @@ llm-rater-validation/
 │   ├── rater.py            # Claude rater + word-overlap baseline
 │   └── metrics.py          # QWK, correlations, agreement, by-group
 └── results_*/              # generated locally (not published)
+```
+
 ---
 
 References
